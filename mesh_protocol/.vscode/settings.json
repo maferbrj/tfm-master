@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "dk_buttons_and_leds.h": "c",
+        "kernel.h": "c",
+        "board.h": "c",
+        "mesh.h": "c",
+        "protocol_controller.h": "c",
+        "fsm_protocol_controller.h": "c"
+    }
+}
