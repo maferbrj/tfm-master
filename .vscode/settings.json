@@ -1,0 +1,36 @@
+{
+    "nrf-connect.applications": [
+        "${workspaceFolder}\\mesh_protocol"
+    ],
+    "files.associations": {
+        "coap_server_client_interface.h": "c",
+        "coap_client.h": "c",
+        "coap_client_utils.h": "c",
+        "fsm_thread.h": "c",
+        "coap.h": "c",
+        "devicetree.h": "c",
+        "device.h": "c",
+        "model_handler.h": "c",
+        "sensor.h": "c",
+        "fsm_protocol_controller.h": "c",
+        "openthread.h": "c",
+        "radio_stats.h": "c",
+        "float.h": "c",
+        "instance.h": "c",
+        "settings.h": "c",
+        "thread.h": "c",
+        "net_if.h": "c",
+        "config.h": "c",
+        "coap_secure.h": "c",
+        "mesh.h": "c",
+        "statistic.h": "c",
+        "health_srv.h": "c",
+        "main.h": "c",
+        "large_comp_data_srv.h": "c",
+        "cdb.h": "c",
+        "msg.h": "c"
+    },
+    "cmake.sourceDirectory": "D:/Documents/TFM/tfm-master/mesh_protocol",
+    "C_Cpp.configurationWarnings": "disabled",
+    "nrf-connect.topdir": "${nrf-connect.sdk:2.6.1}"
+}

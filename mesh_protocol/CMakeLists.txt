@@ -10,7 +10,11 @@ target_sources(app PRIVATE src/main.c)
 target_sources(app PRIVATE src/fsm.c)
 target_sources(app PRIVATE src/fsm_protocol_controller.c)
 target_sources(app PRIVATE src/fsm_mesh.c)
+target_sources(app PRIVATE src/model_handler.c)
 target_sources(app PRIVATE src/fsm_thread.c)
+target_sources(app PRIVATE src/coap_client.c)
+target_sources(app PRIVATE src/coap_client_utils.c)
+
 
 
 if (CONFIG_BUILD_WITH_TFM)

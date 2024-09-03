@@ -5,6 +5,8 @@
         "board.h": "c",
         "mesh.h": "c",
         "protocol_controller.h": "c",
-        "fsm_protocol_controller.h": "c"
+        "fsm_protocol_controller.h": "c",
+        "model_handler.h": "c",
+        "sensor.h": "c"
     }
 }
