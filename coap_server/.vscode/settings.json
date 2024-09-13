@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "log.h": "c",
+        "dk_buttons_and_leds.h": "c",
+        "ot_coap_utils.h": "c",
+        "system_error": "c",
+        "device.h": "c",
+        "net_l2.h": "c"
+    }
+}
