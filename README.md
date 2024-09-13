@@ -3,5 +3,9 @@ Proyecto de Fin de Máster. Implementación de una aplicación multiprotocolo (B
 Los sensores recogen datos de humedad y temperatura y la envían a Gateways.
 
 Gateway Mesh -> sensor_client
+
+
 Gateway Thread -> coap_server
+
+
 Firmware sensors -> multiprotocol_app
